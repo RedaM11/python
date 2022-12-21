@@ -1,6 +1,6 @@
 Company Name;Exchange;Ticker;Industry Classifications;Year Founded;Geographic Locations;Number of Employees;S&P Credit Rating (FC LT);S&P Credit Rating (LC LT);Company Type;Shares Outstanding (mm);Day Close Price($USD);Total Enterprise Value ($USDmm);Total Revenue ($USDmm);Gross Profit ($USDmm);EBITDA ($USDmm);EBIT ($USDmm);Net Income ($USDmm);Cash And Equivalents ($USDmm);Net Property, Plant & Equipment ($USDmm);Total Assets ($USDmm);Total Debt ($USDmm);Total Equity ($USDmm);Basic EPS ($USD)
-Apple Inc,ÿ;NasdaqGS;AAPL;Information Technology;1977;US/CA;154000;AA+;AA+;Public Company;16070,8;170,03;2672893;365817;167861;129557;118329;99633;34940;49527;351002;136522;63090;6,1
-Chevron Corporationÿ;NYSE;CVX;Energy;1879;US/CA;42595;AA-;AA-;Public Company;1957,4;164,62;337105,9;155606;82272;47275;31184;29047;5640;150629;239535;34872;139940;15,1
-The Coca-Cola Companyÿ;NYSE;KO;Consumer Staples;1886;United States and Canada;79000;A+;A+;Public Company;4324,6;64,67;312669,8;38655;24336;13228;11879;9571;9684;11338;94354;44246;24860;2,21
+Apple Inc,;NasdaqGS;AAPL;Information Technology;1977;US/CA;154000;AA+;AA+;Public Company;16070,8;170,03;2672893;365817;167861;129557;118329;99633;34940;49527;351002;136522;63090;6,1
+Chevron Corporation;NYSE;CVX;Energy;1879;US/CA;42595;AA-;AA-;Public Company;1957,4;164,62;337105,9;155606;82272;47275;31184;29047;5640;150629;239535;34872;139940;15,1
+The Coca-Cola Company;NYSE;KO;Consumer Staples;1886;United States and Canada;79000;A+;A+;Public Company;4324,6;64,67;312669,8;38655;24336;13228;11879;9571;9684;11338;94354;44246;24860;2,21
 American express;NYSE;AXP;Consumer Finance;1850;United Statesÿ;64000;BBB+;BBB+;Public Company;747,2;147,26;108871,8;49623;33575;;;7661;21040;4988;214915;43984;23940;9,96
 Bank of America;NYSE;BAC (NYSE);Banks?Diversified;1784;United States and Canada,Asia / Pacific, Europe;213000;BBB-;BBB-;Public Company;8035,2;33,81;290251,6;91516;91516;;;27409;198376;20860;3072953;572823;269524;3,18
